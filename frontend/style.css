@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg,#72b3c5, #5fa7f5, #2e6acb);
+  }
+  
+  #whiteboard {
+    border: 1px solid #000;
+    margin-top: 20px;
+    cursor: crosshair;
+    background-color: aliceblue;
+  }
+
+ #loginForm {
+  width: 50vw;
+  height: 50vh;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  padding: 50px;
+
+ }
